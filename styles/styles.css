@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.viking-img {
+    left: 200px;
+}
+
+ol li {
+    color: red;
+}
